@@ -20,7 +20,7 @@ Read
 ![image](https://user-images.githubusercontent.com/74629111/191485927-1dfd0525-ae5d-48ed-b22e-00b61bebb21b.png)
 
 Update
-![image](https://user-images.githubusercontent.com/74629111/191486177-848b0396-3ea4-4d26-96f1-035608b0aa70.png)
+![image](https://user-images.githubusercontent.com/74629111/191495439-a2425512-98d3-46ce-88e3-e608c2c4eb62.png)
 
 Delete
 ![image](https://user-images.githubusercontent.com/74629111/191486348-0481212c-2551-45aa-9139-d0a25c5bf5e4.png)
