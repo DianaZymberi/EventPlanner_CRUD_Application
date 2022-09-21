@@ -17,7 +17,7 @@ Create
 ![image](https://user-images.githubusercontent.com/74629111/191485841-4ab7636d-a0ad-4aae-8641-bbef02576a1d.png)
 
 Read
-![image](https://user-images.githubusercontent.com/74629111/191485927-1dfd0525-ae5d-48ed-b22e-00b61bebb21b.png)
+![image](https://user-images.githubusercontent.com/74629111/191495597-2b5edc05-d8e7-4ed5-afd1-53f91282b997.png)
 
 Update
 ![image](https://user-images.githubusercontent.com/74629111/191495439-a2425512-98d3-46ce-88e3-e608c2c4eb62.png)
